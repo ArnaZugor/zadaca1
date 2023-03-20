@@ -46,62 +46,63 @@ public class Main {
         int numberOfDoubles = 1;
 
         System.out.println("This is number " + workingNumber + " and it is about to double: " + doubledValue);
+        workingNumber = doubledValue;
         System.out.println("The original number has been doubled: " + numberOfDoubles + " time");
 
 
-        workingNumber = 200;
         doubledValue = workingNumber*2;
         numberOfDoubles = 2;
 
         System.out.println("This is number " + workingNumber + " and it is about to double: " + doubledValue);
+        workingNumber = doubledValue;
         System.out.println("The original number has been doubled: " + numberOfDoubles + " times");
 
 
-        workingNumber = 400;
         doubledValue = workingNumber*2;
         numberOfDoubles = 3;
 
         System.out.println("This is number " + workingNumber + " and it is about to double: " + doubledValue);
+        workingNumber = doubledValue;
         System.out.println("The original number has been doubled: " + numberOfDoubles + " times");
 
 
-        workingNumber = 800;
         doubledValue = workingNumber*2;
         numberOfDoubles = 4;
 
         System.out.println("This is number " + workingNumber + " and it is about to double: " + doubledValue);
+        workingNumber = doubledValue;
         System.out.println("The original number has been doubled: " + numberOfDoubles + " times");
 
 
-        workingNumber = 1600;
         doubledValue = workingNumber*2;
         numberOfDoubles = 5;
 
         System.out.println("This is number " + workingNumber + " and it is about to double: " + doubledValue);
+        workingNumber = doubledValue;
         System.out.println("The original number has been doubled: " + numberOfDoubles + " times");
 
 
-        workingNumber = 3200;
         doubledValue = workingNumber*2;
         numberOfDoubles = 6;
 
         System.out.println("This is number " + workingNumber + " and it is about to double: " + doubledValue);
+        workingNumber = doubledValue;
         System.out.println("The original number has been doubled: " + numberOfDoubles + " times");
 
 
-        workingNumber = 6400;
         doubledValue = workingNumber*2;
         numberOfDoubles = 7;
 
         System.out.println("This is number " + workingNumber + " and it is about to double: " + doubledValue);
+        workingNumber = doubledValue;
         System.out.println("The original number has been doubled: " + numberOfDoubles + " times");
 
 
-        workingNumber = 12800;
         doubledValue = workingNumber*2;
         numberOfDoubles = 8;
 
         System.out.println("This is number " + workingNumber + " and it is about to double: " + doubledValue);
+        workingNumber = doubledValue;
         System.out.println("The original number has been doubled: " + numberOfDoubles + " times");
 
 
