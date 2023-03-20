@@ -24,16 +24,16 @@ public class Main {
         System.out.println(randomDecimalNumber);
 
 
-        char firstLetterOfName = '\u0041';
-        char secondLetterOfName = '\u0072';
-        char thirdLetterOfName = '\u006E';
-        char fourthLetterOfName = '\u0061';
+        char letterUppercaseA = '\u0041';
+        char letterLowercaseR = '\u0072';
+        char letterLowercaseN = '\u006E';
+        char letterLowercaseA = '\u0061';
 
 
-        System.out.print(firstLetterOfName);
-        System.out.print(secondLetterOfName);
-        System.out.print(thirdLetterOfName);
-        System.out.println(fourthLetterOfName);
+        System.out.print(letterUppercaseA);
+        System.out.print(letterLowercaseR);
+        System.out.print(letterLowercaseN);
+        System.out.println(letterLowercaseA);
 
 
         boolean answerToTheUltimateQuestionOfLifeTheUniverseAndEverythingIsTheNumber42 = true;
@@ -57,7 +57,7 @@ public class Main {
         System.out.println("The original number has been doubled: " + numberOfDoubles + " times");
 
 
-        workingNumber = 300;
+        workingNumber = 400;
         doubledValue = workingNumber*2;
         numberOfDoubles = 3;
 
@@ -65,7 +65,7 @@ public class Main {
         System.out.println("The original number has been doubled: " + numberOfDoubles + " times");
 
 
-        workingNumber = 400;
+        workingNumber = 800;
         doubledValue = workingNumber*2;
         numberOfDoubles = 4;
 
@@ -73,7 +73,7 @@ public class Main {
         System.out.println("The original number has been doubled: " + numberOfDoubles + " times");
 
 
-        workingNumber = 500;
+        workingNumber = 1600;
         doubledValue = workingNumber*2;
         numberOfDoubles = 5;
 
@@ -81,7 +81,7 @@ public class Main {
         System.out.println("The original number has been doubled: " + numberOfDoubles + " times");
 
 
-        workingNumber = 600;
+        workingNumber = 3200;
         doubledValue = workingNumber*2;
         numberOfDoubles = 6;
 
@@ -89,7 +89,7 @@ public class Main {
         System.out.println("The original number has been doubled: " + numberOfDoubles + " times");
 
 
-        workingNumber = 700;
+        workingNumber = 6400;
         doubledValue = workingNumber*2;
         numberOfDoubles = 7;
 
@@ -97,7 +97,7 @@ public class Main {
         System.out.println("The original number has been doubled: " + numberOfDoubles + " times");
 
 
-        workingNumber = 800;
+        workingNumber = 12800;
         doubledValue = workingNumber*2;
         numberOfDoubles = 8;
 
